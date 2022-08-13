@@ -28,9 +28,11 @@ body{
     text-align: center;
 }
 .name{
-    color: white;
+    margin: 7px auto 15px auto;
     width: 60%;
-    margin: auto;
+    font-size: 1.2rem;
+    color: white;
+    text-align: center;
 }
 .works{
     color: black;
