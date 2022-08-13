@@ -29,6 +29,8 @@ body{
 }
 .name{
     color: white;
+    width: 60%;
+    margin: auto;
 }
 .works{
     color: black;
